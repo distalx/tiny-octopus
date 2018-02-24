@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "1",
+    "title": "Sarcasm is weird. Even not in acting, in life I feel like 'sarcastic' is a word that people use to describe me sometimes so when I meet someone, it's almost like they feel like they have to also be sarcastic, but it can sometimes just come off as mean if it's not used in the right way. ",
+    "tags": [
+      { "id": "1", "title": "News"},
+      { "id": "2", "title": "Spots"}
+    ],
+    "author": {
+      "id": "1",
+      "username": "prateek"
+    }
+  },
+  {
+    "_id": "2",
+    "title": "Sarcasm I now see to be, in general, the language of the devil; for which reason I have long since as good as renounced it.",
+    "tags": [
+      { "id": "1", "title": "News"},
+      { "id": "2", "title": "Spots"}
+    ],
+    "author": {
+      "id": "1",
+      "username": "prateek"
+    }
+  },
+  {
+    "_id": "3",
+    "title": "What I claim is to live to the full the contradiction of my time, which may well make sarcasm the condition of truth.",
+    "tags": [
+      { "id": "1", "title": "News"},
+      { "id": "2", "title": "Spots"}
+    ],
+    "author": {
+      "id": "2",
+      "username": "deep"
+    }
+  },
+  {
+    "_id": "4",
+    "title": "The spirit of sarcasm lives and thrives in the midst of universal wreck; its balls are enchanted and itself invulnerable, and it braves retaliations and reprisals because itself is a mere flash, a bodiless and magical nothing.",
+    "tags": [
+      { "id": "3", "title": "Code"},
+      { "id": "4", "title": "Internet"}
+    ],
+    "author": {
+      "id": "3",
+      "username": "karan"
+    }
+  },
+  {
+    "_id": "5",
+    "title": "Dance for yourself. If someone understands, good. If not, no matter. Go right on doing what interests you, and do it until it stops interesting you",
+    "tags": [
+      { "id": "2", "title": "Spots"},
+      { "id": "4", "title": "Internet"}
+    ],
+    "author": {
+      "id": "6",
+      "username": "rohan"
+    }
+  },
+  {
+    "_id": "6",
+    "title": "Dancing is the loftiest, the most moving, the most beautiful of the arts, because it is not mere translation or abstraction from life; it is life itself.",
+    "tags": [
+      { "id": "1", "title": "News"},
+      { "id": "4", "title": "Internet"}
+    ],
+    "author": {
+      "id": "6",
+      "username": "rohan"
+    }
+  },
+  {
+    "_id": "7",
+    "title": "The only reason for mastering technique is to make sure the body does not prevent the soul from expressing itself.",
+    "tags": [
+      { "id": "2", "title": "Spots"},
+      { "id": "4", "title": "Internet"}
+    ],
+    "author": {
+      "id": "3",
+      "username": "karan"
+    }
+  },
+  {
+    "_id": "8",
+    "title": "We dance for laughter, we dance for tears, we dance for madness, we dance for fears, we dance for hopes, we dance for screams, we are the dancers, we create the dreams.",
+    "tags": [
+      { "id": "1", "title": "News"},
+      { "id": "4", "title": "Internet"}
+    ],
+    "author": {
+      "id": "4",
+      "username": "ramesh"
+    }
+  },
+  {
+    "_id": "9",
+    "title": "Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free.",
+    "tags": [
+      { "id": "2", "title": "Spots"},
+      { "id": "4", "title": "Internet"}
+    ],
+    "author": {
+      "id": "4",
+      "username": "ramesh"
+    }
+  }
+]

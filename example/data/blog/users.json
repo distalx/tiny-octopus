@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "1",
+    "username": "prateek",
+    "city": "Pune"
+  },
+  {
+    "_id": "2",
+    "username": "deep",
+    "city": "Delhi"
+  },
+  {
+    "_id": "3",
+    "username": "karan",
+    "city": "Rohtak"
+  },
+  {
+    "_id": "4",
+    "username": "ramesh",
+    "city": "Ahmeadabad"
+  },
+  {
+    "_id": "5",
+    "username": "suresh",
+    "city": "Ahmeadabad"
+  },
+  {
+    "_id": "6",
+    "username": "rohan",
+    "city": "Mumbai"
+  },
+  {
+    "_id": "7",
+    "username": "chirag",
+    "city": "Bangalore"
+  }
+]

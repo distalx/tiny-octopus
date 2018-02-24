@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "1",
+    "parent_id": "2",
+    "text": "Sarcasm is like cheap wine - it leaves a terrible aftertaste.",
+    "author": {
+      "id": "1",
+      "username": "prateek"
+    }
+  },
+  {
+    "_id": "2",
+    "parent_id": "4",
+    "text": "Some sarcasm is best told simply.",
+    "author": {
+      "id": "1",
+      "username": "prateek"
+    }
+  },
+  {
+    "_id": "3",
+    "parent_id": "1",
+    "text": "Sarcasm doesn't read sarcastic in print.",
+    "author": {
+      "id": "2",
+      "username": "deep"
+    }
+  },
+  {
+    "_id": "4",
+    "parent_id": "1",
+    "text": "Neither irony or sarcasm is argument.",
+    "author": {
+      "id": "3",
+      "username": "karan"
+    }
+  },
+  {
+    "_id": "5",
+    "parent_id": "2",
+    "text": "Sarcasm doesn't translate in print at all.",
+    "author": {
+      "id": "6",
+      "username": "rohan"
+    }
+  },
+  {
+    "_id": "6",
+    "parent_id": "7",
+    "text": "Litigation solves everything.",
+    "author": {
+      "id": "6",
+      "username": "rohan"
+    }
+  },
+  {
+    "_id": "7",
+    "parent_id": "5",
+    "text": "Nothing makes logical sense in this industry.",
+    "author": {
+      "id": "3",
+      "username": "karan"
+    }
+  },
+  {
+    "_id": "8",
+    "parent_id": "7",
+    "text": "Apparently I'm not a pro cyclist.",
+    "author": {
+      "id": "4",
+      "username": "ramesh"
+    }
+  },
+  {
+    "_id": "9",
+    "parent_id": "5",
+    "text": "I just show up and try to find the joy in every situation.",
+    "author": {
+      "id": "4",
+      "username": "ramesh"
+    }
+  }
+]

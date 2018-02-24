@@ -1,0 +1,8 @@
+{
+  "main": "src/index.js",
+  "dependencies": {
+    "bson": "1.0.4",
+    "mongodb": "3.0.3"
+  },
+  "devDependencies": {}
+}

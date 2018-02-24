@@ -1,0 +1,138 @@
+[
+  {
+    "_id": "1",
+    "title": "Kane and Abel",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "2",
+    "title": "Only Time Will Tell",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "3",
+    "title": "Not a Penny More, Not a Penny Less",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "4",
+    "title": "Not a Penny More, Not a Penny Less",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "5",
+    "title": "The Sins of the Father",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "6",
+    "title": "Best Kept Secret",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "7",
+    "title": "Be Careful What You Wish For",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "8",
+    "title": "Mightier Than the Sword",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "9",
+    "title": "Cometh the Hour",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "10",
+    "title": "This Was a Man",
+    "author": {
+      "id": "1",
+      "name": "Jeffrey Archer"
+    }
+  },
+  {
+    "_id": "11",
+    "title": "The Alchemist",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  },
+  {
+    "_id": "12",
+    "title": "The Winner Stands Alone",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  },
+  {
+    "_id": "13",
+    "title": "Eleven Minutes",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  },
+  {
+    "_id": "14",
+    "title": "By the River Piedra I Sat Down and Wept",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  },
+  {
+    "_id": "15",
+    "title": "Veronika Decides to Die",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  },
+  {
+    "_id": "16",
+    "title": "The Devil and Miss Prym",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  },
+  {
+    "_id": "17",
+    "title": "Adultery",
+    "author": {
+      "_id": "2",
+      "name": "Paulo Coelho"
+    }
+  }
+]
