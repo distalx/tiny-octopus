@@ -1,0 +1,14 @@
+# NPM packages folders.
+**/node_modules/
+*.lock
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+.directory
+.eslintrc
+nbproject
+Thumbs.db
