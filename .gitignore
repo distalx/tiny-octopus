@@ -1,6 +1,7 @@
 # NPM packages folders.
 **/node_modules/
 *.lock
+*.log
 
 # OS or Editor folders
 .DS_Store
@@ -12,3 +13,7 @@
 .eslintrc
 nbproject
 Thumbs.db
+
+# Test
+coverage
+.nyc_output
