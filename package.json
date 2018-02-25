@@ -1,7 +1,7 @@
 {
   "name": "tiny-octopus",
   "description": "This is a POC. DO NOT EVER USE IN PRODUCTION.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/index.js",
   "dependencies": {
     "mongodb": "3.0.3"
