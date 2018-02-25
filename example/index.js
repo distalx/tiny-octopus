@@ -25,10 +25,15 @@ const requestHandler = (request, response) => {
   db.connect()
     .then((result) =>{
 
-      // Magic
-      TinyOctopus(result, users_task);
-      TinyOctopus(result, tags_task);
-      // Magic Ends
+      // TinyOctopus
+      try {
+        TinyOctopus(result, users_task);
+        TinyOctopus(result, tags_task);
+      } catch (e) {
+        console.log(e);
+      }
+
+      // TinyOctopus Ends
 
       // List all posts
       findDocuments(result.db, function(result) {
