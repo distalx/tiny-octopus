@@ -1,5 +1,6 @@
 {
   "name": "tiny-octopus",
+  "description": "This is a POC. DO NOT EVER USE IN PRODUCTION.",
   "version": "0.1.0",
   "main": "src/index.js",
   "dependencies": {
